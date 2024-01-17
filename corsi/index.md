@@ -1,8 +1,3 @@
-layout: post
-title: "CORSI任务初步"
-date: 2024-01-17 22:35:00
-categories: jsPych CORSI
-
 ## 2024-01-17
 
 ### 已完成部分
