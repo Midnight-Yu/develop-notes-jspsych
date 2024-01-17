@@ -1,2 +1,1 @@
-# develop-notes-jspsych
-Development notes for any jsPsych related content (in Chinese).
+这里的是所有和 jsPsych 实验开发有关的笔记。
