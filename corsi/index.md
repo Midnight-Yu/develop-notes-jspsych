@@ -6,8 +6,8 @@
 * 写了三种 layout 下的不同布局和索引。
 * 查了一圈，最新版 jsPsych 对 [conditional timeline 和 loop timeline](https://www.jspsych.org/7.0/overview/timeline/#looping-timelines) 有一些更新，所以顺手把依赖库全部换到了最新版。明天起来研究一下。
 * 跟着上边初步阅读的结果构思了一下程序整体架构。
- * 大致是一个 timeline 里面包含三个子 timeline，触发条件由 difficulty 变量控制。
- * difficulty 变量可以直接用刺激方块的个数，毕竟这个是递增/序列化的，不存在重复和复用的情况，
+  * 大致是一个 timeline 里面包含三个子 timeline，触发条件由 difficulty 变量控制。
+  * difficulty 变量可以直接用刺激方块的个数，毕竟这个是递增/序列化的，不存在重复和复用的情况，
 
 ### 问题
 ~~数据不对，手动输入的数据能够比较好地保存在数据文件里，但是函数生成的数据重复了。考虑到这是个反向的任务，这样对数据记录有很大的阻碍。~~
