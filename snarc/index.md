@@ -1,5 +1,8 @@
 # 自适应旋转任务SNARC实验重编辑
 
+## 2024-02-10
+大致了解了 CSS 中 rotate 的用法，可以先从一个简单的 trial 入手。
+
 ## 2024-02-04
 先立一个用 jsPsych 重写毕设实验的 flag。大致实验流程其实心里有数了（thanks to [CORSI Task](../corsi/index.md)）。
 
